@@ -1,0 +1,48 @@
+# Week: 8/4 to 8/10 
+
+
+Filtered_list
+# write code to filter low quality reads (samtools | grep ) 
+
+# make a submission script 
+# have inputs for slurm directives from TXT file **not urgent
+# Preprocessing command 
+
+
+# important!!! 
+mythelation and hi-C + bw from each cell in 
+to get 2 matrices 
+see jupyternotebooks 
+
+# change listing bam directory 
+either assign cluster name or just sc*.bam 
+
+symbolic link 
+
+# rewrite do not submit to cluster 
+# if not avaialble run locally 
+# converts to juicer short format before moving 
+# take all jobs up 
+
+# .gz matrix for each cell to reduce memory and storage footprint
+
+
+# list of chromsomes=centeral file 
+
+# imputation single_hic_cluster 
+# stop at imputation step 
+
+
+# create  a methylation matrix
+# for each chr and each cell 
+# create the mythelation 
+# bed.gz 
+chr cell1-cell2 mylation amount
+
+# line 121 
+# start with bw files 
+# add to pipeline
+# scXX.ATTTT.methy.b37.bw
+# bam -> hic files -> .bw 
+
+
